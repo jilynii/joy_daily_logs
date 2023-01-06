@@ -1,0 +1,15 @@
+Title: 
+Introduction To Statistics And Its Types For Starters
+
+Link: 
+https://www.youtube.com/watch?v=Vtvj6fPZ1Ww&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO&index=2
+
+Summary
+Statistics is the descipline of collection, organization, analysis, intepretation and presentation of data
+Descriptive Stats: analyszing, summarizing, organising data in the form of number and graphs;has measure of central tendency, measure of variance
+Inferential Stats:takes a sample from a population to make inferences eg zterst, T test
+
+Pros
+-presenter explained the topic in simple form
+Cons
+none
